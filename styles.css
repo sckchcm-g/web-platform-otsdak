@@ -1,0 +1,10 @@
+div {
+  min-width: 100px;
+  min-height: 100px;
+  padding: 30px;
+  border: 1px solid black;
+}
+#statement {
+  min-width: 50px;
+  min-height: 50px;
+}
